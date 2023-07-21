@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cumi Tepung",
+      "price": "30000",
+      "image": "https://media.istockphoto.com/id/1422432593/photo/calamari.webp?b=1&s=612x612&w=0&k=20&c=RflLxb9yPd5pn7u4IA-V3QvzdWJZ_td1l5siBBy7D24="
+    },
+    {
+      "id": 2,
+      "name": "Cumi Bakar",
+      "price": "32000",
+      "image": "https://cdn.pixabay.com/photo/2019/09/05/01/08/food-4452838_1280.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cumi Cabe",
+      "price": "33000",
+      "image": "https://cdn.pixabay.com/photo/2015/08/25/06/11/stir-fried-squid-906246_1280.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cumi & Kerang",
+      "price": "39000",
+      "image": "https://media.istockphoto.com/id/1205496450/photo/italian-mixed-fried-fish-shrimp-and-squid-platter.jpg?s=612x612&w=0&k=20&c=wb-wFPnuefMzLu-TeK08reOxmKe-ad4wR2VUiIUAmHc="
+    },
+    {
+      "id": 5,
+      "name": "Cah Kailan",
+      "price": "10000",
+      "image": "https://media.istockphoto.com/id/598567824/photo/homemade-autumn-apple-walnut-spinach-salad.webp?b=1&s=612x612&w=0&k=20&c=G_g6WpRedaq-c-zAZgkFP4tknnkiAsJDtozkLYiDTio="
+    },
+    {
+      "id": 6,
+      "name": "Tahu Goreng",
+      "price": "14000",
+      "image": "https://cdn.pixabay.com/photo/2016/01/25/06/53/food-1160154_1280.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Cah Taoge",
+      "price": "15000",
+      "image": "https://media.istockphoto.com/id/1411524417/photo/crispy-roasted-brussel-sprouts-with-balsamic-vinegar.webp?b=1&s=612x612&w=0&k=20&c=9LCThdT2-ad4D26XEysleerbHS-af4WfB08PMeeAvNQ="
+    },
+    {
+      "id": 8,
+      "name": "Tumis Kangkung",
+      "price": "17000",
+      "image": "https://media.istockphoto.com/id/538899650/photo/fried-spinach.webp?b=1&s=612x612&w=0&k=20&c=FAXczTINmQUoCBsEHsOBpk9Fbszme3KMlg-CXLBN1tw="
+    },
+    {
+      "id": 9,
+      "name": "Kerang Bambu",
+      "price": "39000",
+      "image": "https://media.istockphoto.com/id/819908788/photo/fried-oysters.webp?b=1&s=612x612&w=0&k=20&c=br7IzP7oDMqf4Za3z37BE94flBPkq7rowigedhDXz1E="
+    },
+    {
+      "id": 10,
+      "name": "Kepiting Padang",
+      "price": "46000",
+      "image": "https://media.istockphoto.com/id/490993702/photo/singapore-chili-crab.jpg?b=1&s=170667a&w=0&k=20&c=86EYa3CFzp_qxdBkx10c1X6kbiGY10WJzO2a4OTzuXc="
+    },
+    {
+      "id": 11,
+      "name": "Gurame Asam Manis",
+      "price": "69000",
+      "image": "https://media.istockphoto.com/id/1422432593/photo/calamari.webp?b=1&s=612x612&w=0&k=20&c=RflLxb9yPd5pn7u4IA-V3QvzdWJZ_td1l5siBBy7D24="
+    },
+    {
+      "id": 12,
+      "name": "Kakap Bawal",
+      "price": "40000",
+      "image": "https://media.istockphoto.com/id/855749956/photo/roasted-sea-bream-fish-with-lemon-slices.webp?b=1&s=612x612&w=0&k=20&c=hxpKOJTEpbAH525xmf6cIFd9jHv5JNNZS0ojVl3DXQE="
+    },
+    {
+      "id": 13,
+      "name": "Udang Bakar",
+      "price": "42000",
+      "image": "https://media.istockphoto.com/id/1193200219/photo/fried-shrimp-and-vegetable-on-plate.webp?b=1&s=612x612&w=0&k=20&c=pTn-FLxczAdwH29e28nRKS44MkBzOWwtjAMJCfXzb7c="
+    },
+    {
+      "id": 14,
+      "name": "Udang Saos Tiram",
+      "price": "45000",
+      "image": "https://media.istockphoto.com/id/1192253012/photo/fried-shrimp-and-vegetable-on-plate.webp?b=1&s=612x612&w=0&k=20&c=wircwPGwpCnlA7_mA1kqlGju8jS0zOG7k0ou_b5IKBg="
+    },
+    {
+      "id": 15,
+      "name": "Udang Mayonaise",
+      "price": "49000",
+      "image": "https://media.istockphoto.com/id/610264540/photo/cajun-shrimp.jpg?s=612x612&w=0&k=20&c=0pdBeE3DBE-0eDIY25PU0uYAxSva-OkVLLXyDvQ5RBs="
+    },
+    {
+      "id": 16,
+      "name": "Udang Asam Manis",
+      "price": "42000",
+      "image": "https://cdn.pixabay.com/photo/2020/08/15/04/22/shrimp-tempura-5489578_1280.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Iced Tea",
+      "price": "7000",
+      "image": "https://media.istockphoto.com/id/1401730890/photo/pitcher-of-cold-ice-tea-with-rural-summer-background.webp?b=1&s=612x612&w=0&k=20&c=QORT-2P4Cdve6nXm0HXi6nN3oClgFExE_GFU9nOqPj8="
+    },
+    {
+      "id": 18,
+      "name": "Es Jeruk Nipis",
+      "price": "10000",
+      "image": "https://media.istockphoto.com/id/1031534852/photo/tequila-and-lime-margaritas.webp?b=1&s=612x612&w=0&k=20&c=Fn7j7IIEQxWVx6369qSvMB_0-ELsTQvG6yI1QFWpQV8="
+    },
+    {
+      "id": 19,
+      "name": "Nasi Putih",
+      "price": "0",
+      "image": "https://media.istockphoto.com/id/1165114438/photo/boiled-rice-in-a-bowl.webp?b=1&s=612x612&w=0&k=20&c=6y3Cz_aLICCgT6YApZpsof4sHeWv12IjukzRxd3sIV0="
+    },
+    {
+      "id": 20,
+      "name": "Nasi Kuning",
+      "price": "2000",
+      "image": "https://media.istockphoto.com/id/1206232458/photo/bowl-of-rice-cooked-photo-isolate-on-black-top-view.webp?b=1&s=612x612&w=0&k=20&c=-dafiwL1KhsBTSTPP8b10rpgOqg8sWSMDXeYgl4hxLc="
+    }
+  ]
+}
